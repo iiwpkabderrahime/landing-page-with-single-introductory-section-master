@@ -3,7 +3,9 @@
 A responsive **Huddle landing page with a single introductory section**, built as a Frontend Mentor challenge using **HTML5 and CSS3**.
 
 ## 🚀 Overview
-## 🔗[Project's Live Link]("https://landing-page-with-single-introducto.vercel.app/")
+
+## 🔗 [Project's Live Link](https://landing-page-with-single-introducto.vercel.app/)
+
 This project is a clean and responsive landing page design that adapts across **desktop, tablet, and mobile devices**.
 
 It includes:
@@ -111,7 +113,3 @@ Socials included in footer:
 * Facebook
 * GitHub
 * Instagram
-
----
-
-
